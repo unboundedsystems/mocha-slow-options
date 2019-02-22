@@ -1,6 +1,6 @@
 {
     "name": "mocha-slow-options",
-    "version": "0.0.2-alpha-0",
+    "version": "0.0.2",
     "description": "Adds more configuration options to Mocha's built-in reporters",
     "main": "index.js",
     "files": [
