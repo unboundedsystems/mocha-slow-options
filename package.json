@@ -30,9 +30,9 @@
         "url": "https://github.com/unboundedsystems/mocha-slow-options.git"
     },
     "devDependencies": {
-        "mocha": "6.2.3"
+        "mocha": "8.4.0"
     },
     "peerDependencies": {
-        "mocha": "5.x || 6.x"
+        "mocha": "5.x || 6.x || 8.x"
     }
 }
